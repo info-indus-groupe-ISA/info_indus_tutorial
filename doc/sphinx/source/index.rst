@@ -15,3 +15,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+
+Cette ligne a été ajoutée par Stéphane Gourjon.
